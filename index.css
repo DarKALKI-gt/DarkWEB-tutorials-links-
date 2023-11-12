@@ -41,12 +41,12 @@ a:hover{
     animation-name: darky;
     animation-duration: 10s;
 } */
-/* @keyframes darky{
+@keyframes darky{
     from{color:black;}
     to{color:white;}
     from{font-size: 80px;}
     to{font-size: 400%;} */
-/* } */
+/* }
 /* phone */
 @media only screen and (max-width: 450px) {
    
